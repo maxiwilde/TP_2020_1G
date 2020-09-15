@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1600144871 source:c:\users\maximiliano\documents\repo codeblock\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"validaciones.h"
+
+1600143915 c:\users\maximiliano\documents\repo codeblock\tp1\funciones.h
+
+1600143801 source:c:\users\maximiliano\documents\repo codeblock\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"validaciones.h"
+
+1599958194 source:c:\users\maximiliano\documents\repo codeblock\tp1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1599958533 c:\users\maximiliano\documents\repo codeblock\tp1\validaciones.h
+
